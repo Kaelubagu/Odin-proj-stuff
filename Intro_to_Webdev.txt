@@ -1,0 +1,6 @@
+Types of web developers:
+    Front End - HTML,CSS,JAVASCRIPT - basic stuff making it look nice
+    Back End - Stores and serves program data, to make sure the front end has what it needs. Java, Python, Ruby, etc.. are used.
+    Full Stack - Both :3
+Tools of the Trade:
+    I have everything, thanks functional programming class...
